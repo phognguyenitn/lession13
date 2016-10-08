@@ -11,4 +11,8 @@ test
 >>>>>>> testing MASTER
 =======
 >>>>>>> testing TESTING
+<<<<<<< HEAD
 >>>>>>> testing MASTER MASTER
+=======
+>>>>>>> testing MASTER TESTING
+>>>>>>> testing
